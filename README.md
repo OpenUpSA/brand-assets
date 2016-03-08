@@ -14,7 +14,7 @@ You can either copy these assets into your project, or you can link to them dire
 
 Code for South Africa Data Journalism Academy logo.
 
-![Code for South Africa Data Journalism Academy](https://static.code4sa.org/brand-assets/academy/c4sa-academy-logo-1-0.png "Code for South Africa Data Journalism Academy")
+![Code for South Africa Data Journalism Academy](https://static.code4sa.org/brand-assets/academy/c4sa-academy-logo-1.0-623x72.png "Code for South Africa Data Journalism Academy")
 
-* Use this URL: [https://static.code4sa.org/brand-assets/academy/c4sa-academy-logo-1-0.png](https://static.code4sa.org/brand-assets/academy/c4sa-academy-logo-1-0.png)
+* Use this URL: [https://static.code4sa.org/brand-assets/academy/c4sa-academy-logo-1.0-623x72.png](https://static.code4sa.org/brand-assets/academy/c4sa-academy-logo-1.0-623x72.png)
 * When clicked on, this image should go to: [http://academy.code4sa.org](http://academy.code4sa.org)
