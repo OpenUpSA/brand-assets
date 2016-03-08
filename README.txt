@@ -2,7 +2,7 @@
 
 This repo provides assets (logos, images, etc.) for use when branding outputs from Code for South Africa.
 
-**Note:** These images and other brand assets are copyright Code for South Africa. You may not use them without permission. Please contact [mailto:info@code4sa.org](info@code4sa.org) with queries.
+**Note:** These images and other brand assets are copyright Code for South Africa. You may not use them without permission. Please contact [info@code4sa.org](mailto:info@code4sa.org) with queries.
 
 # Usage
 
