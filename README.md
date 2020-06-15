@@ -14,15 +14,15 @@ For online media, preferably embed the image from the URLs below. You can also c
 
 ## OpenUp
 
-* [https://brand-assets.openup.org.za/openup/openup-logo-pack.zip](openup/openup-logo-pack.zip)
-* [https://brand-assets.openup.org.za/openup/SVG/Dark/openup-mark-dark.svg](openup/SVG/Dark/openup-mark-dark.svg)
-* [https://brand-assets.openup.org.za/openup/SVG/Dark/openup-logo-dark.svg](openup/SVG/Dark/openup-logo-dark.svg)
-* [https://brand-assets.openup.org.za/openup/SVG/Standard/openup-mark.svg](openup/SVG/Standard/openup-mark.svg)
-* [https://brand-assets.openup.org.za/openup/SVG/Standard/openup-logo.svg](openup/SVG/Standard/openup-logo.svg)
-* [https://brand-assets.openup.org.za/openup/PNG/Dark/openup-logo-dark-1200x267.png](openup/PNG/Dark/openup-logo-dark-1200x267.png)
-* [https://brand-assets.openup.org.za/openup/PNG/Dark/openup-mark-dark-200x200.png](openup/PNG/Dark/openup-mark-dark-200x200.png)
-* [https://brand-assets.openup.org.za/openup/PNG/Standard/openup-logo-1200x267.png](openup/PNG/Standard/openup-logo-1200x267.png)
-* [https://brand-assets.openup.org.za/openup/PNG/Standard/openup-mark-200x200.png](openup/PNG/Standard/openup-mark-200x200.png)
+* [https://brand-assets.openup.org.za/openup/openup-logo-pack.zip](https://brand-assets.openup.org.za/openup/openup-logo-pack.zip)
+* [https://brand-assets.openup.org.za/openup/SVG/Dark/openup-mark-dark.svg](https://brand-assets.openup.org.za/openup/SVG/Dark/openup-mark-dark.svg)
+* [https://brand-assets.openup.org.za/openup/SVG/Dark/openup-logo-dark.svg](https://brand-assets.openup.org.za/openup/SVG/Dark/openup-logo-dark.svg)
+* [https://brand-assets.openup.org.za/openup/SVG/Standard/openup-mark.svg](https://brand-assets.openup.org.za/openup/SVG/Standard/openup-mark.svg)
+* [https://brand-assets.openup.org.za/openup/SVG/Standard/openup-logo.svg](https://brand-assets.openup.org.za/openup/SVG/Standard/openup-logo.svg)
+* [https://brand-assets.openup.org.za/openup/PNG/Dark/openup-logo-dark-1200x267.png](https://brand-assets.openup.org.za/openup/PNG/Dark/openup-logo-dark-1200x267.png)
+* [https://brand-assets.openup.org.za/openup/PNG/Dark/openup-mark-dark-200x200.png](https://brand-assets.openup.org.za/openup/PNG/Dark/openup-mark-dark-200x200.png)
+* [https://brand-assets.openup.org.za/openup/PNG/Standard/openup-logo-1200x267.png](https://brand-assets.openup.org.za/openup/PNG/Standard/openup-logo-1200x267.png)
+* [https://brand-assets.openup.org.za/openup/PNG/Standard/openup-mark-200x200.png](https://brand-assets.openup.org.za/openup/PNG/Standard/openup-mark-200x200.png)
 
 
 ## Academy
