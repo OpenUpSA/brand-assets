@@ -12,7 +12,7 @@ This includes the Code for South Africa brand.
 For online media, preferably embed the image from the URLs below. You can also copy the files to your project. By linking directly, logos can be kept up to date without making changes everywhere they are used.
 
 
-## OpenUp
+## [OpenUp](https://openup.org.za/brand)
 
 * [https://brand-assets.openup.org.za/openup/openup-logo-pack.zip](https://brand-assets.openup.org.za/openup/openup-logo-pack.zip)
 * [https://brand-assets.openup.org.za/openup/SVG/Dark/openup-mark-dark.svg](https://brand-assets.openup.org.za/openup/SVG/Dark/openup-mark-dark.svg)
