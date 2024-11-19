@@ -6,7 +6,7 @@ This repository provides assets (logos, images, etc.) for use when branding outp
 
 # Brand Guide
 
-Please refer to our [https://openup.org.za/brand](branding guide).
+Please refer to our [branding guide](https://openup.org.za/brand).
 
 
 # Asset Usage
