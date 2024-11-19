@@ -25,16 +25,6 @@ For online media, preferably embed the image from the URLs below. You can also c
 * [/openup/PNG/Standard/openup-mark-200x200.png](/openup/PNG/Standard/openup-mark-200x200.png)
 
 
-## Academy
-
-Code for South Africa Data Journalism Academy logo.
-
-![Code for South Africa Data Journalism Academy](/academy/c4sa-academy-logo-1.0-623x72.png "Code for South Africa Data Journalism Academy")
-
-* Use this URL: [https://brand-assets.openup.org.za/academy/c4sa-academy-logo-1.0-623x72.png](https://static.code4sa.org/brand-assets/academy/c4sa-academy-logo-1.0-623x72.png)
-* When clicked on, this image should go to: [http://academy.code4sa.org](http://academy.code4sa.org)
-
-
 # Maintenance
 
 Prefer hyphens and lower case (i.e. slug) names, over spaces and mixed case.
