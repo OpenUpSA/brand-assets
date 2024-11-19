@@ -2,27 +2,29 @@
 
 This repository provides assets (logos, images, etc.) for use when branding outputs from OpenUp.
 
-This includes the Code for South Africa brand.
-
 **Note:** These images and other brand assets are copyright OpenUp. You may not use them without permission. Please contact [info@openup.org.za](mailto:info@openup.org.za) with queries.
 
+# Brand Guide
 
-# Usage
+Please refer to our [https://openup.org.za/brand](branding guide).
+
+
+# Asset Usage
 
 For online media, preferably embed the image from the URLs below. You can also copy the files to your project. By linking directly, logos can be kept up to date without making changes everywhere they are used.
 
 
-## [OpenUp](https://openup.org.za/brand)
+## Assets
 
-* [/openup/openup-logo-pack.zip](/openup/openup-logo-pack.zip)
-* [/openup/SVG/Dark/openup-mark-dark.svg](/openup/SVG/Dark/openup-mark-dark.svg)
-* [/openup/SVG/Dark/openup-logo-dark.svg](/openup/SVG/Dark/openup-logo-dark.svg)
-* [/openup/SVG/Standard/openup-mark.svg](/openup/SVG/Standard/openup-mark.svg)
-* [/openup/SVG/Standard/openup-logo.svg](/openup/SVG/Standard/openup-logo.svg)
-* [/openup/PNG/Dark/openup-logo-dark-1200x267.png](/openup/PNG/Dark/openup-logo-dark-1200x267.png)
-* [/openup/PNG/Dark/openup-mark-dark-200x200.png](/openup/PNG/Dark/openup-mark-dark-200x200.png)
-* [/openup/PNG/Standard/openup-logo-1200x267.png](/openup/PNG/Standard/openup-logo-1200x267.png)
-* [/openup/PNG/Standard/openup-mark-200x200.png](/openup/PNG/Standard/openup-mark-200x200.png)
+* [https://brand-assets.openup.org.za/openup/openup-logo-pack.zip](https://brand-assets.openup.org.za/openup/openup-logo-pack.zip)
+* [https://brand-assets.openup.org.za/openup/SVG/Dark/openup-mark-dark.svg](https://brand-assets.openup.org.za/openup/SVG/Dark/openup-mark-dark.svg)
+* [https://brand-assets.openup.org.za/openup/SVG/Dark/openup-logo-dark.svg](https://brand-assets.openup.org.za/openup/SVG/Dark/openup-logo-dark.svg)
+* [https://brand-assets.openup.org.za/openup/SVG/Standard/openup-mark.svg](https://brand-assets.openup.org.za/openup/SVG/Standard/openup-mark.svg)
+* [https://brand-assets.openup.org.za/openup/SVG/Standard/openup-logo.svg](https://brand-assets.openup.org.za/openup/SVG/Standard/openup-logo.svg)
+* [https://brand-assets.openup.org.za/openup/PNG/Dark/openup-logo-dark-1200x267.png](https://brand-assets.openup.org.za/openup/PNG/Dark/openup-logo-dark-1200x267.png)
+* [https://brand-assets.openup.org.za/openup/PNG/Dark/openup-mark-dark-200x200.png](https://brand-assets.openup.org.za/openup/PNG/Dark/openup-mark-dark-200x200.png)
+* [https://brand-assets.openup.org.za/openup/PNG/Standard/openup-logo-1200x267.png](https://brand-assets.openup.org.za/openup/PNG/Standard/openup-logo-1200x267.png)
+* [https://brand-assets.openup.org.za/openup/PNG/Standard/openup-mark-200x200.png](https://brand-assets.openup.org.za/openup/PNG/Standard/openup-mark-200x200.png)
 
 
 # Maintenance
